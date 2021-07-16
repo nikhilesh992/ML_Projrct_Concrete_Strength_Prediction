@@ -8,7 +8,7 @@ Concrete Strength Prediction Perform Below algorithms To Predict The data And Fo
 - KNN Regressor
 - SVM Regressor 
 - AND 
-- Pick each of the algorithm and perform These steps: 
+- Pick each of the algorithm and perform Below steps: 
 - Split your data between train and test steps.  
 - Build The model  List down the evaluation metrics you would use to evaluate the performance of  the model? 
 - Evaluate the model on training data
