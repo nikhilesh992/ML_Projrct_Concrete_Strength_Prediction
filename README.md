@@ -1,6 +1,5 @@
 # ML_Projrct_Concrete_Strength_Prediction
-Concrete Strength Prediction
-I Perform These algorithms To Predict The data And Found the Best Model: 
+Concrete Strength Prediction Perform Below algorithms To Predict The data And Found the Best Model: 
 - Linear Regression 
 - Lasso Regression
 - Ridge Regression
